@@ -1,6 +1,23 @@
-# SQA2026
-CP353201 Software Quality Assurance [1/2569]
+# CP353201 Software Quality Assurance - Lab 3.1
+## ShiftCipher Unit Testing (Individual Assignment)
 
-This repository contains examples used in the CP353201 Software Quality Assurance class at CS, KKU. Some examples and source code are adopted or modified from the textbooks used in the course. Some examples are adopted from active open-source projects, JUnit6 User Guide, other universities' open courseware, and MOOCs such as TU Delft, UBC (Vancouver), etc. The rest are original. All examples and source code given in this repository are for educational purposes only.
+**Student Name:** ปองภพ ศรีรักษ์
+**Student ID:** 673380279-7  
+**Course:** CP353201 Software Quality Assurance (1/2569)  
+**Instructor:** ผศ.ดร.ชิตสุธา สุ่มเล็ก  
+**Date:** 2026-07-08
 
-I would like to take this opportunity to thank all the contributors around the globe for sharing their knowledge and resources. With their contributions, students can get access to high-quality materials and excellent examples during their studies with us. 
+---
+
+## 📌 Project Overview
+
+This project is a part of Lab 3.1 assignment for the course CP353201 Software Quality Assurance. The objective is to write **JUnit 6** unit tests for the `ShiftCipher` class and to document test results in a structured format.
+
+The project involves:
+- Understanding the `ShiftCipher` class (Caesar Cipher with a fixed shift key).
+- Designing **Positive** (TC03) and **Negative** (TC04) test cases.
+- Writing and executing JUnit tests for all test cases (TC01-TC04).
+- Recording test results in an Excel template.
+- Managing the project using **Git** and **GitHub**.
+
+---
